@@ -4,6 +4,7 @@ import Cards from '../components/Cards'
 import Marq from '../components/Marq'
 import Marquee from "react-fast-marquee";
 import Creative from '../components/Creative';
+import Footer from '../UI/Footer';
 
 
 
@@ -21,7 +22,6 @@ const Home = () => {
 </Marquee>
 
 <Creative/>
-
 </div>
  </>
   )
